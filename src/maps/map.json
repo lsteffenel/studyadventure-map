@@ -176,6 +176,16 @@
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/drive.google.com\/drive\/folders\/13FQEo4PHS2pZDh530rldq4RJkyiMzx_O?usp=sharing"
+                }, 
+                {
+                 "name":"openTabTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openTabTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open the welcome documentation"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1612,19 +1622,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.lexilogos.com\/presse.htm"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"autoplay; picture-in-picture"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
+                 "name":"openTabTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openTabTriggerMessage",
+                 "type":"string",
+                 "value":"Press space to see the web page"
                 }],
          "type":"tilelayer",
          "visible":true,
