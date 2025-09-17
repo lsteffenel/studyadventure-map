@@ -1811,17 +1811,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/chat.csml.dev\/channels\/evk8eh2785fnihwdtnetcb7mjur9zcgi"
                 }, 
                 {
-                 "name":"OpenWebsiteTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"OpenWebsiteTriggerMessage",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to talk to our robot!"
                 }],
