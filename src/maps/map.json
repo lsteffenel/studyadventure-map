@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"..\/map.json"
+         "format":"json"
         }
     },
  "height":70,
@@ -2834,7 +2833,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/..\/tilesets\/special_zones.png",
+         "image":"..\/tilesets\/special_zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -2857,7 +2856,7 @@
         {
          "columns":75,
          "firstgid":13,
-         "image":"..\/..\/tilesets\/23_Room_Builder_32x32_INRIA.png",
+         "image":"..\/tilesets\/23_Room_Builder_32x32_INRIA.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
@@ -2870,7 +2869,7 @@
         {
          "columns":10,
          "firstgid":5038,
-         "image":"..\/..\/tilesets\/GuttyKreumNatureTiles.png",
+         "image":"..\/tilesets\/GuttyKreumNatureTiles.png",
          "imageheight":448,
          "imagewidth":320,
          "margin":0,
@@ -2883,7 +2882,7 @@
         {
          "columns":16,
          "firstgid":5178,
-         "image":"..\/..\/tilesets\/1_Generic_32x32.png",
+         "image":"..\/tilesets\/1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -2896,7 +2895,7 @@
         {
          "columns":16,
          "firstgid":6138,
-         "image":"..\/..\/tilesets\/4_Bedroom_32x32.png",
+         "image":"..\/tilesets\/4_Bedroom_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -2909,7 +2908,7 @@
         {
          "columns":16,
          "firstgid":7850,
-         "image":"..\/..\/tilesets\/12_Kitchen_32x32.png",
+         "image":"..\/tilesets\/12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -2922,7 +2921,7 @@
         {
          "columns":16,
          "firstgid":8634,
-         "image":"..\/..\/tilesets\/13_Conference_Hall_32x32.png",
+         "image":"..\/tilesets\/13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -2935,7 +2934,7 @@
         {
          "columns":16,
          "firstgid":8826,
-         "image":"..\/..\/tilesets\/14_Basement_32x32.png",
+         "image":"..\/tilesets\/14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -2948,7 +2947,7 @@
         {
          "columns":16,
          "firstgid":9626,
-         "image":"..\/..\/tilesets\/18_Jail_32x32.png",
+         "image":"..\/tilesets\/18_Jail_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -2961,7 +2960,7 @@
         {
          "columns":16,
          "firstgid":10346,
-         "image":"..\/..\/tilesets\/19_Hospital_32x32.png",
+         "image":"..\/tilesets\/19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -2974,7 +2973,7 @@
         {
          "columns":16,
          "firstgid":12106,
-         "image":"..\/..\/tilesets\/2_LivingRoom_32x32_INRIA.png",
+         "image":"..\/tilesets\/2_LivingRoom_32x32_INRIA.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -2987,7 +2986,7 @@
         {
          "columns":16,
          "firstgid":12826,
-         "image":"..\/..\/tilesets\/8_Gym_32x32.png",
+         "image":"..\/tilesets\/8_Gym_32x32.png",
          "imageheight":608,
          "imagewidth":512,
          "margin":0,
@@ -3000,7 +2999,7 @@
         {
          "columns":16,
          "firstgid":13130,
-         "image":"..\/..\/tilesets\/9_Fishing_32x32.png",
+         "image":"..\/tilesets\/9_Fishing_32x32.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -3013,7 +3012,7 @@
         {
          "columns":22,
          "firstgid":13562,
-         "image":"..\/..\/tilesets\/24_Office_32x32.png",
+         "image":"..\/tilesets\/24_Office_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -3026,7 +3025,7 @@
         {
          "columns":18,
          "firstgid":14090,
-         "image":"..\/..\/tilesets\/24_User_Interface_32x32.png",
+         "image":"..\/tilesets\/24_User_Interface_32x32.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -3039,7 +3038,7 @@
         {
          "columns":3,
          "firstgid":14342,
-         "image":"..\/..\/tilesets\/info-screen.png",
+         "image":"..\/tilesets\/info-screen.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -3052,7 +3051,7 @@
         {
          "columns":8,
          "firstgid":14351,
-         "image":"..\/..\/tilesets\/posters.png",
+         "image":"..\/tilesets\/posters.png",
          "imageheight":320,
          "imagewidth":256,
          "margin":0,
@@ -3065,7 +3064,7 @@
         {
          "columns":6,
          "firstgid":14431,
-         "image":"..\/..\/tilesets\/carpets.png",
+         "image":"..\/tilesets\/carpets.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -3078,7 +3077,7 @@
         {
          "columns":12,
          "firstgid":14467,
-         "image":"..\/..\/tilesets\/statue.png",
+         "image":"..\/tilesets\/statue.png",
          "imageheight":933,
          "imagewidth":400,
          "margin":0,
